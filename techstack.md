@@ -68,7 +68,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [thanhit1990/Spoke](https://github.com/thanhit1990/Spoke)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|88<br/>Tools used|12/19/23 <br/>Report generated|
+|90<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -332,9 +332,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (59)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (61)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (59)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (61)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -374,8 +374,10 @@ Full tech stack [here](/techstack.md)
 |[form-data](https://www.npmjs.com/form-data)|v2.5.1|09/10/19|Robert Long |MIT|N/A|
 |[fuse.js](https://www.npmjs.com/fuse.js)|v3.4.5|08/07/19|Robert Long |Apache-2.0|N/A|
 |[html-webpack-plugin](https://www.npmjs.com/html-webpack-plugin)|v3.2.0|07/31/23|Thanh Tran Student |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v3.0.5|09/10/19|Robert Long |MIT|N/A|
 |[jszip](https://www.npmjs.com/jszip)|v3.2.2|03/05/19|Robert Long |MIT,GPL-3.0|[CVE-2022-48285](https://github.com/advisories/GHSA-36fh-84j7-cv5h) (High)<br/>[CVE-2021-23413](https://github.com/advisories/GHSA-jg8v-48h5-wgxg) (Moderate)|
 |[jwt-decode](https://www.npmjs.com/jwt-decode)|v2.2.0|03/28/19|Robert Long |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v9.2.5|01/07/20|Robert Long |MIT|N/A|
 |[markdown-it](https://www.npmjs.com/markdown-it)|v8.4.2|09/10/19|Robert Long |MIT|[CVE-2022-21670](https://github.com/advisories/GHSA-6vfc-qv3f-vr6c) (Moderate)|
 |[mousetrap](https://www.npmjs.com/mousetrap)|v1.6.3|05/13/19|Robert Long |Apache-2.0|N/A|
 |[prop-types](https://www.npmjs.com/prop-types)|v15.7.2|03/06/19|Robert Long |MIT|N/A|
